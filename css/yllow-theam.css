@@ -1,0 +1,30 @@
+/* Start Defult Theam */
+
+.option-box .color-option {
+    border: 4px solid rgb(241, 212, 81);
+}
+.testimonials .carousel-indicators li.active {
+    border: 1px solid rgb(241, 212, 81);
+}
+.navbar-nav > .active > a,
+.navbar-nav > .active > a:hover,
+.navbar-nav > .active > a:focus,
+.option-box .color-option ul li,
+.navbar-nav > .active > a,
+.carousel-indicators .active,
+.option-box .gear-check,
+.carousel-indicators li
+{
+    background-color: rgb(241, 212, 81);
+}
+.navbar .navbar-brand span,
+.carousel-inner .carousel-item span,
+.price-table .price-box:hover p,
+.footer h3,
+.footer .copyright span
+{
+    color: rgb(241, 212, 81)
+}
+
+
+/* End Defult Theam */
